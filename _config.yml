@@ -1,0 +1,10 @@
+title: Martin Joy Analytics
+description: "Portfolio showcasing my journey in Data Analytics and Data Science"
+remote_theme: jeromelachaud/freelancer-theme
+plugins:
+  - jekyll-remote-theme
+
+# Contact & Social Links
+email: your.email@example.com
+linkedin: https://www.linkedin.com/in/martinjoy1995
+github: https://github.com/martin-joy-analytics
